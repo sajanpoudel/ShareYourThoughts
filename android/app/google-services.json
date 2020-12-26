@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "502759140937",
+    "project_id": "nepali-chat-2001",
+    "storage_bucket": "nepali-chat-2001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502759140937:android:e6239c1ba7a3d5d6205998",
+        "android_client_info": {
+          "package_name": "info.sajanpoudel.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502759140937-mjab2jtgorol3bs7l480f5ug1dkk8ccr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy2htlbIl_xNN_Pfp0GJzuGLp4G7nYxg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502759140937-mjab2jtgorol3bs7l480f5ug1dkk8ccr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
